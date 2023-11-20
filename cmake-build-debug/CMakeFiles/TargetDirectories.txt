@@ -1,0 +1,3 @@
+/Users/mac/CLionProjects/BACA_MN_3/cmake-build-debug/CMakeFiles/BACA_MN_3.dir
+/Users/mac/CLionProjects/BACA_MN_3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mac/CLionProjects/BACA_MN_3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
